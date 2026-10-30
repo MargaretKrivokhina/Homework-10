@@ -133,14 +133,12 @@ img {
 #education ul {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
   gap: 25px;
 }
 
 #education li {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
   align-items: center;
   column-gap: 40px;
 }
@@ -152,7 +150,7 @@ img {
 }
 
 .jewelry-school {
-  order: 5;
+  order: 1;
   align-self: center;
 }
 
